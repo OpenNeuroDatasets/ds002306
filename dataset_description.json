@@ -1,16 +1,16 @@
 {
     "Name": "Over 100 Task fMRI Dataset",
-    "License": "CC0",
+    "License": "",
     "Authors": [
         "Tomoya Nakai",
         "Shinji Nishimoto"
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
-    "Funding": "",
+    "Funding": ["MEXT/JSPS KAKENHI grant numbers JP17K13083",  "JP18H05091 in #4903", "JP15H05311", "JP18H05522", "JST CREST JPMJCR18A5", "ERATO JPMJER1801" ],
     "ReferencesAndLinks": [
         "Nakai and Nishimoto (2019) Data-driven models reveal the organization of diverse cognitive functions in the brain. bioRxiv. https://www.biorxiv.org/content/10.1101/614081v1.full"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds002306.v1.0.1",
+    "DatasetDOI": "",
     "BIDSVersion": "1.0.2"
 }

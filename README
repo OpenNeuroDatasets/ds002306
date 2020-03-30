@@ -2,6 +2,10 @@ README
 
 Over 100 Task fMRI Dataset by Tomoya Nakai and Shinji Nishimoto
 
+References:
+ Nakai & Nishimoto (bioRxiv 2019, doi: https://doi.org/10.1101/614081)
+ Nakai & Nishimoto (Nature Communications 2020, doi: https://doi.org/10.1038/s41467-020-14913-w) 
+
 We measured brain activity using functional MRI while six subjects (“sub-01”, …, “sub-06”) performed 103 cognitive tasks.
 
 The entire folder consists of subject-wise subfolders (“sub-01”,…). Each subject’s folder contains the following subfolders:

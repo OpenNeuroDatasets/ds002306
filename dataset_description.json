@@ -15,9 +15,7 @@
         "JST CREST JPMJCR18A5",
         "ERATO JPMJER1801"
     ],
-    "ReferencesAndLinks": [
-        "Nakai and Nishimoto (2019) Data-driven models reveal the organization of diverse cognitive functions in the brain. bioRxiv. https://www.biorxiv.org/content/10.1101/614081v1.full"
-    ],
+    "ReferencesAndLinks": [],
     "DatasetDOI": "",
     "BIDSVersion": "1.0.2"
 }

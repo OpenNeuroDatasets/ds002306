@@ -15,7 +15,10 @@
         "JST CREST JPMJCR18A5",
         "ERATO JPMJER1801"
     ],
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "Nakai and Nishimoto, Nature Communications (2020). Quantitative models reveal the organization of diverse cognitive functions in the brain. doi: https://doi.org/10.1038/s41467-020-14913-w",
+        "Nakai and Nishimoto, bioRxiv (2019). Data-driven models reveal the organization of diverse cognitive functions in the brain. doi: https://www.biorxiv.org/content/10.1101/614081v1.full"
+    ],
     "DatasetDOI": "",
     "BIDSVersion": "1.0.2"
 }

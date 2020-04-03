@@ -16,8 +16,7 @@
         "ERATO JPMJER1801"
     ],
     "ReferencesAndLinks": [
-        "Nakai & Nishimoto, Nature Communications (2020). Quantitative models reveal the organization of diverse cognitive functions in the brain.  doi: https://doi.org/10.1038/s41467-020-14913-w",
-        "Nakai & Nishimoto, bioRxiv (2019). Data-driven models reveal the organization of diverse cognitive functions in the brain. doi: https://www.biorxiv.org/content/10.1101/614081v1.full"
+        "Nakai and Nishimoto (2019) Data-driven models reveal the organization of diverse cognitive functions in the brain. bioRxiv. https://www.biorxiv.org/content/10.1101/614081v1.full"
     ],
     "DatasetDOI": "",
     "BIDSVersion": "1.0.2"
